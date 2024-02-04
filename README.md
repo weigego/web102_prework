@@ -1,8 +1,8 @@
-# WEB102 Prework - *Game Fundding*
+# WEB102 Prework - *Game Funding*
 
 Submitted by: **Will**
 
-**Game Fundding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Funding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **4** hours spent in total
 
